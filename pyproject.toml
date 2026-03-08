@@ -10,7 +10,7 @@ dependencies = [
     "python-dotenv==1.0.0",
     "python-multipart==0.0.6",
     "pydantic==2.5.2",
-    "openai-whisper==20231117",
+    "openai-whisper>=20240930",
     "torch",
     "spacy==3.7.2",
     "aiofiles==23.2.1"
