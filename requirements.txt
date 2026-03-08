@@ -6,6 +6,7 @@ python-dotenv==1.0.0
 python-multipart==0.0.6
 pydantic==2.5.2
 openai-whisper==20231117
-torch --index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 spacy==3.7.2
 aiofiles==23.2.1
